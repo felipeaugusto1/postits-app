@@ -6,7 +6,7 @@ Sample React Native project that uses Firebase Realtime Database
 1. clone the repo
 2. run `npm install` from the project root directory
 3. create a database under your firebase console, and add its keys to `postits/src/config.js`
-3. run `react-native run-ios` or `react-native run-android`. if you get any error, try cleaning the cache by running `react-native start --reset-cache` and then try to run the app again
+3. run `react-native run-ios` or `react-native run-android`. if you get any error, try cleaning the cache by running `react-native start --reset-cache` and then try to run the app again (in case you want to run on android, you need to create the file `local.properties` under the android directory, and add your sdk dir)
 
 ### Third-party libraries
 
