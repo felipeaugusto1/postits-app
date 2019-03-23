@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';  
 import { filter } from 'lodash';
-import { Wrapper, Title, TouchableButton, ButtonText, Slide, TextInputt } from './style';
+import { Wrapper, Title, TouchableButton, ButtonText, Slide, TextInput } from './style';
 import { addPostit, postitsRef } from './src/config';
 import Swiper from 'react-native-swiper';
 import Postits from './src/components/postits';

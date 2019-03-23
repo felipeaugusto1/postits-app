@@ -19,7 +19,7 @@ export const TextInput = styled.TextInput.attrs({
   textAlignVertical: 'top',
   autoCorrect: false,
   multiline: true,
-  placeholder: 'New message',
+  placeholder: 'Nova mensagem',
 })`
   height: 100px;
   padding: 4px;

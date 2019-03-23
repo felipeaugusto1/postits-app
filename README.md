@@ -1,6 +1,8 @@
 # Postits
 Sample React Native project that uses Firebase Realtime Database
 
+[Click here to see how this app looks like](http://www.giphy.com/gifs/9rv1y0DDwB9aVmaShV)
+
 ### Running
 
 1. clone the repo
